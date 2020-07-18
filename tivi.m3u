@@ -288,39 +288,7 @@ http://183.207.248.11/PLTV/4/224/3221227021/index.m3u8
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",ICS外语频道
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",东方影视频道
-http://www.dszbdq.cn/play/migu0619.php?id=617290047
-#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海新闻综合频道
-http://www.dszbdq.cn/play/migu0619.php?id=651632657
 
 
-
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳公共频道
-http://www.dszbdq.cn/play/gdsz.php?id=4
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳都市频道
-http://www.dszbdq.cn/play/gdsz.php?id=2
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳少儿频道
-http://www.dszbdq.cn/play/gdsz.php?id=7
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳娱乐频道
-http://www.dszbdq.cn/play/gdsz.php?id=6
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳国际频道
-http://www.dszbdq.cn/play/gdsz.php?id=11
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳电视剧频道
-http://www.dszbdq.cn/play/gdsz.php?id=3
-#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="H.深圳本地",深圳财经频道
-http://www.dszbdq.cn/play/gdsz.php?id=5
-
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽影视频道
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽国际频道
-http://zbbf2.ahtv.cn/live/dab.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽公共频道
-http://zbbf2.ahtv.cn/live/752.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽科教频道
-http://zbbf2.ahtv.cn/live/754.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽生活频道
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="I.安徽本地",安徽综艺频道
-http://zbbf2.ahtv.cn/live/758.m3u8
 
 
