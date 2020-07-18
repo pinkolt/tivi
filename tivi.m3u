@@ -18,7 +18,7 @@ http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="8" tvg-logo="http://tv.sason.xyz/logo/cctv7.png" group-title="A.央视",CCTV-7 国防军事
 http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="http://tv.sason.xyz/logo/cctv8.png" group-title="A.央视",CCTV-8 电视剧
-http://39.135.19.142:18890/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
+http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="10" tvg-logo="http://tv.sason.xyz/logo/cctv9.png" group-title="A.央视",CCTV-9 纪录
 http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="http://tv.sason.xyz/logo/cctv10.png" group-title="A.央视",CCTV-10 科教
