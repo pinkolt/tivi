@@ -35,14 +35,6 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="18" tvg-logo="http://tv.sason.xyz/logo/cctv17.png" group-title="A.央视",CCTV-17蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1,纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1,中国气象
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1,CEC 国际频道
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1,CEC 国际旅游
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-logo="http://tv.sason.xyz/logo/cctvbqhk.png" group-title="A.央视",CCTV 兵器科技 FHD
 http://39.135.19.139:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6558" tvg-logo="http://tv.sason.xyz/logo/cctvdyjc.png" group-title="A.央视",CCTV 第一剧场 FHD
@@ -65,8 +57,7 @@ http://39.135.19.142:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 http://39.135.19.142:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvwhjp.png" group-title="A.央视",CCTV 文化精品
 http://39.135.19.142:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="A.央视",CCTV 4K FHD版
+#EXTINF:-1 tvg-id="105" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="A.央视",CCTV 4K FHD版
 http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 tvg-id="73" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="A.央视",CETV-1
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
@@ -90,82 +81,266 @@ http://live.hcs.cmvideo.cn:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?ProgramID
 http://live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?ProgramID=&amp;encrypt=
 #EXTINF:-1 tvg-id="26" tvg-logo="http://tv.sason.xyz/logo/cgtn.png" group-title="A.央视",CGTN
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctvnews/1000/index.m3u8?ProgramID=&amp;encrypt=
-#EXTINF:-1,湖南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
-#EXTINF:-1,江苏卫视
-http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
-#EXTINF:-1,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8
-#EXTINF:-1,重庆卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225904/1.m3u8
-#EXTINF:-1,东方卫视
-http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-#EXTINF:-1,北京卫视
-http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
-#EXTINF:-1,广东卫视
-http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
-#EXTINF:-1,天津卫视
-http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
-#EXTINF:-1,山东卫视
-http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
-#EXTINF:-1,山东教育
-http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1,安徽卫视
-http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8
-#EXTINF:-1,湖北卫视
-http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1,辽宁卫视
-http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
-#EXTINF:-1,江西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
-#EXTINF:-1,深圳卫视
-http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
-#EXTINF:-1,广西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
-#EXTINF:-1,黑龙江卫视
-http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
-#EXTINF:-1,河南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
-#EXTINF:-1,陕西卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8&nbsp;
-#EXTINF:-1,四川卫视
+
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="B.4K频道",CCTV 4K 高码率
+http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="B.4K频道",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="B.4K频道",BesTV 4K
+http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="http://tv.sason.xyz/logo/hnws.png" group-title="C.卫视",湖南卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="http://tv.sason.xyz/logo/jsws.png" group-title="C.卫视",江苏卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="http://tv.sason.xyz/logo/zjws.png" group-title="C.卫视",浙江卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="C.卫视",东方卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
+#EXTINF:-1 tvg-id="56" tvg-logo="http://tv.sason.xyz/logo/scws.png" group-title="C.卫视",四川卫视 FHD
 http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1,四川康巴卫视
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
-#EXTINF:-1,吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1,延边卫视
-http://www.dszbdq.cn/play/ncyd.php?id=5903
-#EXTINF:-1,东南卫视
-http://112.50.243.4/PLTV/88888888/224/3221226877/1.m3u8
-#EXTINF:-1,河北卫视
-http://www.dszbdq.cn/play/jxgzyd.php?id=5610
-#EXTINF:-1,厦门卫视
-http://cstvpull.live.wscdns.com/live/xiamen.flv
-#EXTINF:-1,兵团卫视
-http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,宁夏卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1,山西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
-#EXTINF:-1,青海卫视
-http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
-#EXTINF:-1,贵州卫视
-http://112.50.243.4/PLTV/88888888/224/3221226827/1.m3u8
-#EXTINF:-1,云南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
-#EXTINF:-1,海南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1,海南三沙卫视
-http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
-#EXTINF:-1,甘肃卫视
-http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,新疆卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8&nbsp;
-#EXTINF:-1,西藏卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1,内蒙古卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8&nbsp;
+#EXTINF:-1 tvg-id="30" tvg-logo="http://tv.sason.xyz/logo/bjws.png" group-title="C.卫视",北京卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="http://tv.sason.xyz/logo/gdws.png" group-title="C.卫视",广东卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226946/1.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="http://tv.sason.xyz/logo/szws.png" group-title="C.卫视",深圳卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="http://tv.sason.xyz/logo/sdws.png" group-title="C.卫视",山东卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="http://tv.sason.xyz/logo/tjws.png" group-title="C.卫视",天津卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="http://tv.sason.xyz/logo/dnws.png" group-title="C.卫视",东南卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="http://tv.sason.xyz/logo/hljws.png" group-title="C.卫视",黑龙江卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="http://tv.sason.xyz/logo/hubws.png" group-title="C.卫视",湖北卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://tv.sason.xyz/logo/jxws.png" group-title="C.卫视",江西卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221227022/1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="http://tv.sason.xyz/logo/lnws.png" group-title="C.卫视",辽宁卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226881/1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="http://tv.sason.xyz/logo/cqws.png" group-title="C.卫视",重庆卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="http://tv.sason.xyz/logo/ahws.png" group-title="C.卫视",安徽卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226942/1.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="http://tv.sason.xyz/logo/hebws.png" group-title="B.卫视",河北卫视 FHD
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293403.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://tv.sason.xyz/logo/henws.png" group-title="C.卫视",河南卫视 FHD
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296103.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="http://tv.sason.xyz/logo/gzws.png" group-title="C.卫视",贵州卫视 FHD
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo="http://tv.sason.xyz/logo/gxws.png" group-title="C.卫视",广西卫视 FHD
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
+#EXTINF:-1 tvg-id="59" tvg-logo="http://tv.sason.xyz/logo/qhws.png" group-title="C.卫视",青海卫视 FHD
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://tv.sason.xyz/logo/xmws.png" group-title="C.卫视",厦门卫视 FHD
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="C.卫视",金鹰记实 FHD
+http://39.135.19.142:18890/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="2060" tvg-logo="http://tv.sason.xyz/logo/emdy.png" group-title="C.卫视",峨眉电影 HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="http://tv.sason.xyz/logo/jlws.png" group-title="C.卫视",吉林卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="http://tv.sason.xyz/logo/sxws1.png" group-title="C.卫视",山西卫视 HD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo="http://tv.sason.xyz/logo/sxws3.png" group-title="C.卫视",陕西卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-logo="http://tv.sason.xyz/logo/ynws.png" group-title="C.卫视",云南卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="http://tv.sason.xyz/logo/gsws.png" group-title="C.卫视",甘肃卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="http://tv.sason.xyz/logo/xzws.png" group-title="C.卫视",西藏卫视 HD
+http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="http://tv.sason.xyz/logo/kbws.png" group-title="C.卫视",康巴卫视 HD
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="http://tv.sason.xyz/logo/hanws.png" group-title="C.卫视",海南卫视 SD
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000291503.m3u8
+#EXTINF:-1 tvg-id="57" tvg-logo="http://tv.sason.xyz/logo/xjws.png" group-title="C.卫视",新疆卫视 SD
+http://112.17.40.140/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="http://tv.sason.xyz/logo/nxws.png" group-title="C.卫视",宁夏卫视 SD
+http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="http://tv.sason.xyz/logo/nmgws.png" group-title="C.卫视",内蒙古卫视 SD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="http://tv.sason.xyz/logo/hxws.png" group-title="C.卫视",海峡卫视 SD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="D.香港",凤凰中文 官方HD
+http://tv.sason.xyz/proxy/fh.php?id=zw
+#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="D.香港",凤凰资讯 官方HD
+http://tv.sason.xyz/proxy/fh.php?id=zx
+#EXTINF:-1 tvg-id="143" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="D.香港",凤凰香港 官方HD
+http://tv.sason.xyz/proxy/fh.php?id=hk
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/fhdy.png" group-title="D.香港",凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="D.香港",凤凰中文 国外FHD
+http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="D.香港",凤凰资讯 国外FHD
+http://220.158.149.28:8180/TV00000000000000000066@HHZT;LIVE
+#EXTINF:-1 tvg-id="143" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="D.香港",凤凰香港 国外FHD
+http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="D.香港",凤凰中文 备用HD
+http://117.169.120.138:8080/live/fhchinese/.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="D.香港",凤凰资讯 备用HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="D.香港",凤凰香港 备用HD
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-logo="http://tv.sason.xyz/logo/wxxw.png" group-title="D.香港",TVB新闻
+http://tv.sason.xyz/proxy/tvb.php?id=xw
+#EXTINF:-1 tvg-id="133" tvg-logo="http://tv.sason.xyz/logo/wxcjzx.png" group-title="D.香港",TVB财经资讯
+http://tv.sason.xyz/proxy/tvb.php?id=cj
+#EXTINF:-1 tvg-id="7122" tvg-logo="http://tv.sason.xyz/logo/yxxw.png" group-title="D.香港",有线新闻 ★
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-logo="http://tv.sason.xyz/logo/yxcjxw.png" group-title="D.香港",有线财经资讯 ★
+https://ottproxy2.mott.tv/livehls/MOB-NGW/02.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="D.香港",有线综合娱乐 ★
+https://ottproxy2.mott.tv/livehls/MOB-CN/02.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="D.香港",RTHK31 ★
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="D.香港",RTHK32 ★
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-logo="http://tv.sason.xyz/logo/hkk.png" group-title="D.香港",开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="412" tvg-logo="http://tv.sason.xyz/logo/hks.png" group-title="D.香港",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="E.台湾",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-logo="http://tv.sason.xyz/logo/dscjxw.png" group-title="E.台湾",东森财经新闻 FHD ★
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="E.台湾",东森新闻 FHD ★
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="E.台湾",华视新闻 FHD ★
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-logo="http://tv.sason.xyz/logo/msxw.png" group-title="E.台湾",民视新闻 FHD ★
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="E.台湾",三立iNews FHD ★
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="E.台湾",三立Live FHD ★
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="E.台湾",台视新闻 FHD ★
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="E.台湾",中视新闻 FHD ★
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="E.台湾",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-logo="http://tv.sason.xyz/logo/yxw.png" group-title="E.台湾",壹新闻 FHD ★
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-logo="http://tv.sason.xyz/logo/ms.png" group-title="E.台湾",民视 ★
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="7133" tvg-logo="http://tv.sason.xyz/logo/msdyt.png" group-title="E.台湾",民视第一 ★
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.sason.xyz/logo/mstwt.png" group-title="E.台湾",民视台湾 ★
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/msyj.png" group-title="E.台湾",民视影剧 ★
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="7145" tvg-logo="http://tv.sason.xyz/logo/mszy.png" group-title="E.台湾",民视综艺 ★
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/msly.png" group-title="E.台湾",民视旅游 ★
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-id="7197" tvg-logo="http://tv.sason.xyz/logo/wljc.png" group-title="E.台湾",纬来精采 ★
+https://usb.bozztv.com/ttvbHD/index.m3u8
+#EXTINF:-1 tvg-id="6027" tvg-logo="http://tv.sason.xyz/logo/da1.png" group-title="E.台湾",大爱I
+https://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 tvg-id="6142" tvg-logo="http://tv.sason.xyz/logo/da2.png" group-title="E.台湾",大爱II
+https://tv2.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/dagj.png" group-title="E.台湾",大爱海外
+https://tv3.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳门有线I
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳门有线II
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳门有线III
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视澳门
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视葡语
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视电影
+https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视体育
+https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视资讯
+https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视综艺
+https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",澳视立法院
+https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="F.澳门",莲花卫视 FHD ★
+http://220.158.149.28:8180/TV00000000000000000069@HHZT;LIVE
+
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海五星体育频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海第一财经频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海电影频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海综合频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海卡通
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海都视频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",Sitv都市剧场
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",sitv全纪实频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",SITV金色频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",SITV欢笑剧场
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海动漫秀场
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海点掌财经频
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",游戏风云频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海纪实人文频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",浦东东方财经
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/2.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海购物
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海教育台
+http://live.setv.sh.cn/slive/shedu02_800k.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海新娱乐频道
+http://183.207.248.11/PLTV/4/224/3221227021/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海生活时尚
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",ICS外语频道
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",东方影视频道
+http://www.dszbdq.cn/play/migu0619.php?id=617290047
+#EXTINF:-1 tvg-id="31" tvg-logo="http://tv.sason.xyz/logo/dfws.png" group-title="G.上海本地",上海新闻综合频道
+http://www.dszbdq.cn/play/migu0619.php?id=651632657
+
+#EXTINF:-1 tvg-id="30" tvg-logo="http://tv.sason.xyz/logo/bjws.png" group-title="H.北京本地",北京冬奥纪实 SD
+http://112.17.40.140/PLTV/88888888/224/3221226746/index.m3u8
+#EXTINF:-1,北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1,新华中文
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1,北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1,北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1,北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1,北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1,北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1,北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+
+
+#EXTINF:-1,CEC 国际频道
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1,CEC 国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+
+
 #EXTINF:-1,五星体育频道
 http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1,五星体育2
@@ -200,28 +375,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1,家有购物 HD
 http://112.17.40.140/PLTV/88888888/224/3221226741/index.m3u8
-#EXTINF:-1,北京冬奥纪实 SD
-http://112.17.40.140/PLTV/88888888/224/3221226746/index.m3u8
-#EXTINF:-1,北京纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,新华中文
-http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1,北京财经
-http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1,北京科教
-http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1,北京青年
-http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1,北京生活
-http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1,北京新闻
-http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1,北京影视
-http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1,东方影视频道
-http://www.dszbdq.cn/play/migu0619.php?id=617290047
-#EXTINF:-1,上海新闻综合频道
-http://www.dszbdq.cn/play/migu0619.php?id=651632657
+
 #EXTINF:-1,湖南都视
 http://hntj.chinashadt.com:2036/live/tv12.stream_360p/media_w1865712270_1171082.ts.m3u8
 #EXTINF:-1,湖南电影
@@ -324,48 +478,9 @@ http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel43068/index.m3u8?k=60f29
 http://pull.hnedutv.com/live/edutv.m3u8
 #EXTINF:-1,金鹰纪实 SD
 http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
-#EXTINF:-1,上海五星体育频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
-#EXTINF:-1,上海第一财经频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
-#EXTINF:-1,上海电影频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1,上海综合频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
-#EXTINF:-1,上海卡通
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
-#EXTINF:-1,上海都视频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
-#EXTINF:-1,Sitv都市剧场
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
-#EXTINF:-1,sitv全纪实频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
-#EXTINF:-1,SITV金色频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/3.m3u8
-#EXTINF:-1,SITV欢笑剧场
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
-#EXTINF:-1,上海动漫秀场
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
-#EXTINF:-1,上海点掌财经频
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1,游戏风云频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/3.m3u8
-#EXTINF:-1,上海纪实人文频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
-#EXTINF:-1,浦东东方财经
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/2.m3u8
-#EXTINF:-1,上海购物
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1,上海教育台
-http://live.setv.sh.cn/slive/shedu02_800k.m3u8
-#EXTINF:-1,上海新娱乐频道
-http://183.207.248.11/PLTV/4/224/3221227021/index.m3u8
-#EXTINF:-1,上海生活时尚
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
-#EXTINF:-1,ICS外语频道
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
-#EXTINF:-1,七彩戏剧频
-http://183.207.249.9/PLTV/2/224/3221226039/1.m3u8
+
+
+
 #EXTINF:-1,广东国际频道
 http://www.dszbdq.cn/play/gdstv.php?id=gjpd
 #EXTINF:-1,广东影视频道
@@ -908,8 +1023,7 @@ http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/in
 http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 #EXTINF:-1,四川电影频道
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1,上海电影频道
-http://www.dszbdq.cn/play/migu0619.php?id=617290047
+
 #EXTINF:-1,动作电影
 http://39.134.134.116:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1592964660-1-1579795790.hls.ts.m3u8
 #EXTINF:-1,古装剧场
