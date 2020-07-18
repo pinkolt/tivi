@@ -1,45 +1,45 @@
 #EXTM3U url-tvg="http://tv.sason.xyz/epg"
-#EXTINF:-1 tvg-id="1" tvg-logo="http://tv.sason.xyz/logo/cctv1.png" group-title="A.央视",CCTV-1蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="http://tv.sason.xyz/logo/cctv2.png" group-title="A.央视",CCTV-2蓝光
+#EXTINF:-1 tvg-id="1" tvg-logo="http://tv.sason.xyz/logo/cctv1.png" group-title="A.央视",CCTV-1 综合
+http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="http://tv.sason.xyz/logo/cctv2.png" group-title="A.央视",CCTV-2 财经
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="http://tv.sason.xyz/logo/cctv3.png" group-title="A.央视",CCTV-3蓝光
+#EXTINF:-1 tvg-id="3" tvg-logo="http://tv.sason.xyz/logo/cctv3.png" group-title="A.央视",CCTV-3 综艺
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="4" tvg-logo="http://tv.sason.xyz/logo/cctv4.png" group-title="A.央视",CCTV-4蓝光
+#EXTINF:-1 tvg-id="4" tvg-logo="http://tv.sason.xyz/logo/cctv4.png" group-title="A.央视",CCTV-4 国际
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="http://tv.sason.xyz/logo/cctv4.png" group-title="A.央视",CCTV-4欧洲频道
-http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&amp;encrypt=
-#EXTINF:-1 tvg-id="6" tvg-logo="http://tv.sason.xyz/logo/cctv5.png" group-title="A.央视",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-logo="http://tv.sason.xyz/logo/cctv4.png" group-title="A.央视",CCTV-4 欧洲
+http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="http://tv.sason.xyz/logo/cctv5.png" group-title="A.央视",CCTV-5 体育
 http://heb.jilu8.cn/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://tv.sason.xyz/logo/cctv5p.png" group-title="A.央视",CCTV5+
+#EXTINF:-1 tvg-id="7" tvg-logo="http://tv.sason.xyz/logo/cctv5p.png" group-title="A.央视",CCTV-5+ 体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="http://tv.sason.xyz/logo/cctv6.png" group-title="A.央视",CCTV-6蓝光
+#EXTINF:-1 tvg-id="8" tvg-logo="http://tv.sason.xyz/logo/cctv6.png" group-title="A.央视",CCTV-6 电影
 http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="9" tvg-logo="http://tv.sason.xyz/logo/cctv7.png" group-title="A.央视",CCTV-7蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="http://tv.sason.xyz/logo/cctv8.png" group-title="A.央视",CCTV-8蓝光
-http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="11" tvg-logo="http://tv.sason.xyz/logo/cctv9.png" group-title="A.央视",CCTV-9蓝光
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="http://tv.sason.xyz/logo/cctv10.png" group-title="A.央视",CCTV-10蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="http://tv.sason.xyz/logo/cctv11.png" group-title="A.央视",CCTV-11蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1tvg-id="14" tvg-logo="http://tv.sason.xyz/logo/cctv12.png" group-title="A.央视",CCTV-12蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="http://tv.sason.xyz/logo/cctv13.png" group-title="A.央视",CCTV 13蓝光
-http://223.110.247.161:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="http://tv.sason.xyz/logo/cctv14.png" group-title="A.央视",CCTV-14蓝光
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="http://tv.sason.xyz/logo/cctv15.png" group-title="A.央视",CCTV-15蓝光
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="18" tvg-logo="http://tv.sason.xyz/logo/cctv17.png" group-title="A.央视",CCTV-17蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-logo="http://tv.sason.xyz/logo/cctvbqhk.png" group-title="A.央视",CCTV 兵器科技 FHD
+#EXTINF:-1 tvg-id="8" tvg-logo="http://tv.sason.xyz/logo/cctv7.png" group-title="A.央视",CCTV-7 国防军事
+http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://tv.sason.xyz/logo/cctv8.png" group-title="A.央视",CCTV-8 电视剧
+http://39.135.19.142:18890/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="10" tvg-logo="http://tv.sason.xyz/logo/cctv9.png" group-title="A.央视",CCTV-9 纪录
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="http://tv.sason.xyz/logo/cctv10.png" group-title="A.央视",CCTV-10 科教
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="http://tv.sason.xyz/logo/cctv11.png" group-title="A.央视",CCTV-11 戏曲
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="http://tv.sason.xyz/logo/cctv12.png" group-title="A.央视",CCTV-12 社会与法
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="http://tv.sason.xyz/logo/cctv13.png" group-title="A.央视",CCTV-13 新闻
+http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="http://tv.sason.xyz/logo/cctv14.png" group-title="A.央视",CCTV-14 少儿
+http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="http://tv.sason.xyz/logo/cctv15.png" group-title="A.央视",CCTV-15 音乐
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="http://tv.sason.xyz/logo/cctv17.png" group-title="A.央视",CCTV-17 农业农村
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-logo="http://tv.sason.xyz/logo/cctvbqhk.png" group-title="A.央视",CCTV 兵器科技
 http://39.135.19.139:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6558" tvg-logo="http://tv.sason.xyz/logo/cctvdyjc.png" group-title="A.央视",CCTV 第一剧场 FHD
+#EXTINF:-1 tvg-id="6558" tvg-logo="http://tv.sason.xyz/logo/cctvdyjc.png" group-title="A.央视",CCTV 第一剧场
 http://39.135.19.142:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvdszn.png" group-title="A.央视",CCTV 电视指南 FHD
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvdszn.png" group-title="A.央视",CCTV 电视指南
 http://39.135.19.142:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6559" tvg-logo="http://tv.sason.xyz/logo/cctvfyjc.png" group-title="A.央视",CCTV 风云剧场
 http://39.135.19.142:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
@@ -57,8 +57,7 @@ http://39.135.19.142:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 http://39.135.19.142:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvwhjp.png" group-title="A.央视",CCTV 文化精品
 http://39.135.19.142:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="105" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="A.央视",CCTV 4K FHD版
-http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+
 #EXTINF:-1 tvg-id="73" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="A.央视",CETV-1
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="A.央视",CETV-2
