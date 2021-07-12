@@ -35,7 +35,7 @@ rtp://238.1.78.50:6272
 rtp://238.1.78.178:7296
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV电视指南HD
 rtp://238.1.79.53:4560
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV央视文化精品HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV央视文化精品HD
 rtp://238.1.79.54:4568
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV女性时尚HD
 rtp://238.1.79.55:4576
@@ -59,29 +59,29 @@ rtp://238.1.79.58:4600
 rtp://238.1.79.59:4608
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事HD
 rtp://238.1.78.237:7768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育CETV-1HD
+#EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="" group-title="教育",中国教育CETV-1HD
 rtp://238.1.78.158:7136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育CETV-2
+#EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="" group-title="教育",中国教育CETV-2
 rtp://238.1.78.106:6720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂CETV-4
+#EXTINF:-1 tvg-id="75" tvg-name="" tvg-logo="" group-title="教育",空中课堂CETV-4
 rtp://238.1.78.107:6728
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视FHD
 rtp://238.1.79.27:4328
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽经济生活HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽经济生活HD
 rtp://238.1.79.44:4464
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽影视频道HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽影视频道HD
 rtp://238.1.79.42:4448
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽公共频道HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽公共频道HD
 rtp://238.1.79.43:4456
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽综艺体育HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽综艺体育HD
 rtp://238.1.79.41:4440
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽农业科教HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽农业科教" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽农业科教HD
 rtp://238.1.79.40:4432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽人物频道HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽人物频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽人物频道HD
 rtp://238.1.79.45:4472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽国际频道
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽国际频道
 rtp://238.1.78.61:6360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽导视频道
+#EXTINF:-1 tvg-id="" tvg-name="安徽导视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽导视频道
 rtp://238.1.79.66:4664
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海豚生活HD
 rtp://238.1.79.50:4512
@@ -91,8 +91,6 @@ rtp://238.1.79.32:4368
 rtp://238.1.79.33:4376
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海豚影视HD
 rtp://238.1.79.34:4384
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家家购物
-rtp://238.1.78.32:6184
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 rtp://238.1.78.162:7168
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视HD
@@ -183,11 +181,11 @@ rtp://238.1.78.155:7112
 rtp://238.1.78.33:6192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中甲联赛HD
 rtp://238.1.79.39:4424
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卡通少儿",卡酷少儿
 rtp://238.1.78.97:6648
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卡通少儿",哈哈炫动
 rtp://238.1.78.82:6528
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卡通少儿",金鹰卡通
 rtp://238.1.78.100:6672
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
 rtp://238.1.78.254:7904
