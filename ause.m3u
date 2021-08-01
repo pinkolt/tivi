@@ -118,4 +118,7 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K 4K超高清
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场 4K超高清
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K花园 4K超高清
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227749/index.m3u8
